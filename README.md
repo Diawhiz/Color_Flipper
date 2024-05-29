@@ -26,6 +26,8 @@ How to Use
 3. Call the bgcolor(name) function with the desired color and element ID.
 4. Call the random() function to set a random background color.
 
+![color flipper](image.png)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
