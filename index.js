@@ -11,10 +11,11 @@ function bgcolor(name) {
 
     // Check if an element with the id equal to name exists and set its border color to white
     const element = document.getElementById(name);
-    if (element) {
-        element.style.borderColor = "#fff";
-        console.log(name); // Log the value of the name variable to the console
-    }
+    //if (element === element) {
+    //    element.style.borderColor = name;
+    //} else {
+        //element.style.borderColor = name;  
+    //}
 }
 
 /**
