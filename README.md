@@ -28,6 +28,7 @@ How to Use
 
 ![color flipper](image.png)
 
+'''
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -62,4 +63,5 @@ function random() {
     const color = `rgb(${red}, ${blue}, ${green})`;
     body.style.backgroundColor = color;
 }
+'''
 
